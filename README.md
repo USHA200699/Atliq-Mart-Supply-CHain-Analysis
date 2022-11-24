@@ -30,7 +30,11 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 ## Dashboard 
 
 <p align="center">
-  https://user-images.githubusercontent.com/117802269/203693827-9b8ecc28-7b47-4ea9-939e-2cf3cf5cf603.mp4
+  
+
+  https://user-images.githubusercontent.com/117802269/203694658-9ccf569f-9a48-49dd-9648-11dd286c7771.mp4
+
+
 </p>
 
 
