@@ -23,7 +23,8 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 ## Data Model 
 
 <p align="center">
-  https://user-images.githubusercontent.com/117802269/203694850-f0991b93-b8a5-4d57-8734-aeeeb9bf4b7f.jpg
+  ![bandicam 2022-11-23 10-04-01-074](https://user-images.githubusercontent.com/117802269/203695072-b6a1834b-195b-4b5a-acdf-8fd573f620ea.jpg)
+
 
 
 </p>
