@@ -23,7 +23,7 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 ## Data Model 
 
 <p align="center">
-  ![supply chain modal](https://user-images.githubusercontent.com/117802269/203693640-bf003ba1-6668-4dfc-9377-fe03711a7581.jpg)
+  (https://user-images.githubusercontent.com/117802269/203693640-bf003ba1-6668-4dfc-9377-fe03711a7581.jpg)
 </p>
 
 
@@ -37,9 +37,13 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 ## Some Major Insights 
 
 Total order quantity is 13,426, 936.Total Undelivered Quantity is 457,779 and Total delivered Quantity is12,969,157.
+
 We can see that Surat is doing great as compared to the other cities in terms of   OTIF (On Time & In Full) order Deliveries.
+
 We can observe that city wise Vadodara is not doing well as compared to the other cities in terms of OTIF (On Time & In Full) order deliveries and Vadodara has the highest undelivered orders as well.
+
 In the terms of Metric Performance overtime. We can see that in August we have delivered maximum orders ON Time & IN FULL as compared to other months.
+
 In the terms of most Ordered Products. AM Milk 250 is most ordered products.
 
 
