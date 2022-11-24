@@ -23,7 +23,8 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 ## Data Model 
 
 <p align="center">
-  ![supply chain modal](https://user-images.githubusercontent.com/117802269/203694779-23e7aeb8-eee8-495e-ab00-2406dd17f69f.jpg)
+  https://user-images.githubusercontent.com/117802269/203694850-f0991b93-b8a5-4d57-8734-aeeeb9bf4b7f.jpg
+
 
 </p>
 
